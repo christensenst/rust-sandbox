@@ -1,0 +1,4 @@
+rust-sandbox:
+  build: .
+  volumes:
+    - ./rust_sandbox:/opt/rust_sandbox
